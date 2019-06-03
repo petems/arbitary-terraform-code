@@ -1,4 +1,4 @@
-# arbitary-terraform-code
+# arbitrary
 
 A repo of Terraform code designed to make a large statefile.
 
